@@ -1,0 +1,1 @@
+module.exports.Bulletin = require('./bulletin.model');

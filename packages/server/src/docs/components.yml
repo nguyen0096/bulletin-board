@@ -1,0 +1,15 @@
+components:
+  schemas:
+    Bulletin:
+      type: object
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        content:
+          type: string
+      example:
+        id: 5ebac534954b54139806c112
+        title: An example bulletin
+        content: This is an example

@@ -1,0 +1,1 @@
+module.exports.bulletinService = require('./bulletin.service');
