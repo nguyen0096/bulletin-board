@@ -1,0 +1,8 @@
+.bb-bulletin-board {
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    /* Place for fixed navbar */
+    padding-top: 50px;
+}
