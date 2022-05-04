@@ -1,0 +1,9 @@
+#bb-bulletin-modal {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 9999;
+}
+
+#bb-bulletin-modal-dialog {
+    width: 50%;
+}
