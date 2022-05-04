@@ -1,6 +1,6 @@
 {
     "name": "bulletin-board-server",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "API for Bulletin board app",
     "bin": "bin/createNodejsApp.js",
     "main": "src/index.js",
